@@ -1,14 +1,22 @@
 # Inverse-of-matrix
 
 ## AIM:
-
+To write a python program for Inverse of matrix
 ## ALGORITHM:
 ### Step 1:
-### Step 2:
-### Step 3:
-### Step 4:
-### Step 5:
+Get the input from the user
 
+### Step 2:
+use append() to add new elements in the list
+
+### Step 3:
+Get the input from the user using np.array()
+
+### Step 4:
+inverse = np.linalg.inv() to inverse the matrix and print the output
+
+### Step 5:
+End the program
 
 ## PROGRAM:
 ~~~
@@ -32,3 +40,4 @@ print(inverse)
 ![output](https://github.com/RanjithD18/Inverse-of-matrix/blob/main/Screenshot%20(12).png)
 
 ## RESULT:
+Thus the program is written to Inverse of matrix
