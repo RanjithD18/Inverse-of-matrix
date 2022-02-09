@@ -29,5 +29,6 @@ inverse = np.linalg.inv(value1)
 print(inverse)
 ~~~
 ## OUTPUT:
+![output](https://github.com/RanjithD18/Inverse-of-matrix/blob/main/Screenshot%20(12).png)
 
 ## RESULT:
